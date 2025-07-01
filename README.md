@@ -17,7 +17,7 @@ How to access the site:
 - Select "Visit this unsafe site" to proceed.
 - The site is completely safe and won’t harm your device. 🛡️
 
-🔗 Check it out here: https://shruuti-005.github.io/Amazon-clone/
+🔗 Check it out here: https://shruuti-005.github.io/Ecommerce-clone/
 
 🚀 What's Next?
 - Adding interactivity with JavaScript. 🌐
